@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"Duy",
+        "phone":"055",
+        "role":1
+    },
+    {
+        "id":2,
+        "name":"Thanh",
+        "phone":"077",
+        "role":3
+    },
+    {
+        "id":3,
+        "name":"Nghia",
+        "phone":"099",
+        "role":2
+    },
+    {
+        "id":4,
+        "name":"Khang",
+        "phone":"088",
+        "role":2
+    }
+]
